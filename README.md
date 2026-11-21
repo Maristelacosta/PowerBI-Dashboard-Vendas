@@ -1,82 +1,42 @@
-# 📊 Dashboard de Vendas \- Power BI
+# 📊 Dashboard de Vendas em Power BI
 
 ## 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido para praticar análise de dados e visualização de informações utilizando Power BI.
-
-O dashboard apresenta indicadores de vendas, permitindo uma visão rápida do desempenho comercial por produto e região.
-
----
+Dashboard desenvolvido para análise de vendas e acompanhamento de indicadores de desempenho (KPIs), permitindo monitorar faturamento, produtos mais vendidos e desempenho por região.
 
 ## 🎯 Objetivos
 
-- Importar dados de uma planilha Excel
-- Criar visualizações interativas
-- Analisar vendas por produto
-- Analisar vendas por região
-- Desenvolver habilidades em Power BI
+- Monitorar vendas em tempo real
+- Acompanhar faturamento
+- Identificar tendências de mercado
+- Apoiar a tomada de decisões
 
----
+## 📈 Indicadores Analisados
 
-## 📈 Indicadores Apresentados
+- Faturamento Total
+- Quantidade Vendida
+- Ticket Médio
+- Vendas por Região
+- Vendas por Produto
 
-✅ Faturamento Total
+## 🛠️ Tecnologias Utilizadas
 
-✅ Vendas por Produto
+- Power BI
+- Excel
+- DAX
+- Business Intelligence
 
-✅ Vendas por Região
+## 📷 Dashboard
 
-✅ Análises Visuais Interativas
+Adicione aqui uma imagem do dashboard.
 
----
+## 🚀 Resultados
 
-## 🛠️ Ferramentas Utilizadas
-
-- Power BI Desktop
-- Microsoft Excel
-- GitHub
-
----
-
-## 📂 Estrutura do Projeto
-
-PowerBI\-Dashboard\-Vendas
-
-│
-
-├── Dashboard\_Vendas.pbix
-
-├── Planilha\_Exemplo\_PowerBI.xlsx
-
-├── dashboard.png
-
-└── README.md
-
----
-
-## 📸 Dashboard
-
-Adicione abaixo a captura do dashboard:
-
-![Dashboard](InvalidUrl)
-
----
-
-## 🚀 Aprendizados
-
-Durante este projeto foram praticados:
-
-- Importação de dados
-- Modelagem básica
-- Criação de gráficos
-- Publicação de projetos no GitHub
-- Organização de portfólio de projetos
-
----
+O projeto permite visualizar rapidamente os principais indicadores comerciais, facilitando análises estratégicas e operacionais.
 
 ## 👩‍💻 Autora
 
-Maristela Costa
+Maristela Aparecida Costa
 
-Em transição para a área de Dados e Business Intelligence, desenvolvendo projetos práticos com Power BI, Excel e GitHub.
+GitHub: https://github.com/Maristelacosta
 
